@@ -71,13 +71,10 @@ The project includes model evaluation using a confusion matrix and threshold-bas
 
 ### Threshold-Based Confusion Matrix
 
-```text
-[[1973   17]
- [   1    2]] ```
+The threshold-based evaluation produced the following confusion matrix:
 
+**[[1973, 17], [1, 2]]**
 
 ## 🚀 Open in Google Colab
 
-(https://colab.research.google.com/drive/1IRo3BGZDp0o4RJEMC4AjCJRPipf16WZa?usp=sharing)
-
-
+[Open the project in Google Colab](https://colab.research.google.com/drive/1IRo3BGZDp0o4RJEMC4AjCJRPipf16WZa?usp=sharing)
